@@ -1,60 +1,68 @@
-## **Anshul Gupta**  
-+91 8223088553 | anshulg8223@gmail.com | [LinkedIn Profile](https://www.linkedin.com/in/anshulgupta02/)
+I have reviewed the information extracted from your LinkedIn profile and document. I will create an ATS-friendly, highly scored resume for a QA Tester role based on your details.
 
 ---
 
-#### **Professional Summary**  
-Detail-oriented QA Tester with over 3 years of experience in manual and automated testing. Adept at identifying defects, developing comprehensive test cases, and ensuring high-quality software delivery. Proficient in tools like Selenium, JIRA, and TestRail, with a commitment to enhancing product quality and user experience.
+**Anshul Gupta**  
+Pune, Maharashtra  
+anshulg8223@gmail.com | +91 8223088553, +91 8319862204  
+[LinkedIn](https://www.linkedin.com/in/AnshulGupta) | [GitHub](https://github.com/AnshulGupta) | [Portfolio](https://anshulg8223.github.io)
 
 ---
 
-#### **Skills**
-- **Testing Tools:** Selenium, Test Complete, JIRA, TestRail  
-- **Programming Languages:** Python, SQL, C/C++, JavaScript  
-- **Frameworks:** Bootstrap, WordPress  
-- **Developer Tools:** Git  
-- **Applications:** Power BI, Consult III-Plus  
+### **Professional Summary**  
+Detail-oriented QA Tester with over 2.8 years of experience in manual and automated testing. Proficient in identifying defects, developing comprehensive test cases, and ensuring high-quality software delivery. Skilled in tools like Selenium, JIRA, TestRail, and Test Complete, with expertise in Python and SQL. Dedicated to enhancing product quality, user experience, and efficient testing processes.
 
 ---
 
-#### **Work Experience**
+### **Professional Experience**
 
-**Tata Consultancy Services – Pune**  
-*QA Tester* | Feb 2022 – Present  
+**System Engineer**  
+*Tata Consultancy Services, Pune, Maharashtra*  
+*Feb 2022 – Present*  
 
-**Client: Nissan**  
-- Performed system, regression, and black box testing for Nissan vehicle diagnostics software.  
-- Developed and executed automation scripts using Test Complete for enhanced test efficiency.  
-- Identified, tracked, and documented bugs to ensure software reliability.  
-- Prepared detailed and requirement-based test cases.  
-- Collaborated with developers to understand and test new features effectively.  
-- Conducted knowledge transfer sessions to train junior team members.  
+- **Project: Meijer, USA (Data Engineer & API Developer)**  
+  - Designed and validated end-to-end data pipelines, migrating on-premises data to Azure Cloud Storage using Azure Data Factory and Azure Databricks.  
+  - Engineered APIs on Azure Function Apps with C#/.NET for high-performance data access.  
+  - Automated data processes, reducing operational costs by $200,000 annually.  
 
-**Client: Paypal**  
-- Conducted rigorous data validation and testing during data migration and cleansing projects.  
-- Automated frequent testing tasks using Python scripts.  
-- Created interactive dashboards using Power BI to present actionable insights to stakeholders.  
-- Identified and resolved data quality issues to maintain data integrity.  
+  **Achievements:**  
+  - Delivered a robust data transformation solution for legacy-to-cloud migration.  
+  - Improved data integration performance by 40% through Spark optimization.  
+
+- **Project: Nissan, Japan (QA Tester)**  
+  - Conducted regression, system, and black-box testing for vehicle diagnostics software.  
+  - Developed automation scripts using Test Complete to streamline test processes.  
+  - Collaborated with developers to test features, ensuring requirements alignment.  
+  - Mentored junior team members on testing methodologies and tools.  
 
 ---
 
-#### **Education**
+### **Education**  
 **Bachelor of Engineering in Computer Science**  
-Rajiv Gandhi Proudyogiki Vishwavidyalaya, MP | 2016 – 2020  
-CGPA: 8.71  
+Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV), Bhopal (M.P.)  
+2016 – 2020 | CGPA: 7.7  
 
 ---
 
-#### **Certifications**
-- Google Cloud Certified Associate Cloud Engineer  
-- Tableau Training for Data Science  
+### **Technical Skills**  
+- **Testing Tools**: Selenium, TestRail, Test Complete, JIRA  
+- **Programming Languages**: Python, SQL, Shell Scripting  
+- **Cloud Platforms**: Azure (Data Factory, Databricks, Cosmos DB), AWS  
+- **Databases**: Teradata, SQL Server  
+- **Other Tools**: Azure DevOps, Git, Visual Studio  
 
 ---
 
-#### **Achievements**
-- Applause for the Team Award, Tata Consultancy Services (2021, 2023).  
-- Certificate of Appreciation for Delivering Quality Work, Tata Consultancy Services (2021, 2023).  
-- Customer Appreciation for Commitment and Dedication (2024).  
+### **Certifications**  
+- **Google Cloud Certified Associate Cloud Engineer**  
 
 ---
 
+### **Achievements**  
+- Received "Applause for the Team" Award (TCS, 2021, 2023).  
+- Recognized with "Certificate of Appreciation" (TCS, 2021, 2023).  
+- Gained customer appreciation for commitment and dedication (2024).
+
+---
+
+Would you like further customization, or should I proceed to tailor this for specific job applications? Let me know!
