@@ -1,8 +1,4 @@
-I have reviewed the information extracted from your LinkedIn profile and document. I will create an ATS-friendly, highly scored resume for a QA Tester role based on your details.
-
----
-
-**Anshul Gupta**  
+## **Anshul Gupta**  
 Pune, Maharashtra  
 anshulg8223@gmail.com | +91 8223088553, +91 8319862204  
 [LinkedIn](https://www.linkedin.com/in/AnshulGupta) | [GitHub](https://github.com/AnshulGupta) | [Portfolio](https://anshulg8223.github.io)
@@ -63,6 +59,3 @@ Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV), Bhopal (M.P.)
 - Recognized with "Certificate of Appreciation" (TCS, 2021, 2023).  
 - Gained customer appreciation for commitment and dedication (2024).
 
----
-
-Would you like further customization, or should I proceed to tailor this for specific job applications? Let me know!
