@@ -6,7 +6,7 @@ anshulg8223@gmail.com | +91 8223088553, +91 8319862204
 ---
 
 ### **Professional Summary**  
-Detail-oriented QA Tester with over 2.8 years of experience in manual and automated testing. Proficient in identifying defects, developing comprehensive test cases, and ensuring high-quality software delivery. Skilled in tools like Selenium, JIRA, TestRail, and Test Complete, with expertise in Python and SQL. Dedicated to enhancing product quality, user experience, and efficient testing processes.
+Detail-oriented QA Tester in manual and automated testing. Proficient in identifying defects, developing comprehensive test cases, and ensuring high-quality software delivery. Skilled in tools like Selenium, JIRA, TestRail, and Test Complete, with expertise in Python and SQL. Dedicated to enhancing product quality, user experience, and efficient testing processes.
 
 ---
 
