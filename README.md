@@ -1,5 +1,5 @@
 ## **Anshul Gupta**
-## SQL| Excel| 
+SQL| Excel| 
 Pune, Maharashtra  
 anshulg8223@gmail.com 
 +91 8223088553, +91 8319862204  
