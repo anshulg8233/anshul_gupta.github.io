@@ -1,8 +1,9 @@
-## **Anshul Gupta
-SQL| Excel| 
+## **Anshul Gupta**
+## SQL| Excel| 
 Pune, Maharashtra  
-anshulg8223@gmail.com | +91 8223088553, +91 8319862204  
-[LinkedIn](https://www.linkedin.com/in/AnshulGupta) | **
+anshulg8223@gmail.com 
++91 8223088553, +91 8319862204  
+[LinkedIn](https://www.linkedin.com/in/AnshulGupta) |
 [GitHub](https://github.com/AnshulGupta) | [Portfolio](https://anshulg8223.github.io)
 
 ---
